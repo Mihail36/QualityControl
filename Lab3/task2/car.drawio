@@ -1,0 +1,138 @@
+<mxfile host="app.diagrams.net" modified="2024-05-07T15:15:45.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="SHonJplrlaaXs_9v0mbN" version="24.3.1" type="google">
+  <diagram name="Страница — 1" id="qcwimUHvw6TiCGyQEzTd">
+    <mxGraphModel dx="1179" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="dxl6oFcOkmb9z_GCciGH-1" target="dxl6oFcOkmb9z_GCciGH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="270" />
+              <mxPoint x="550" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-1" value="Выключена" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="dxl6oFcOkmb9z_GCciGH-2" target="dxl6oFcOkmb9z_GCciGH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.957;entryY=0.778;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="dxl6oFcOkmb9z_GCciGH-2" target="dxl6oFcOkmb9z_GCciGH-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="429.9999999999998" y="409.6470588235295" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="890" y="500" />
+              <mxPoint x="430" y="500" />
+              <mxPoint x="430" y="392" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-2" value="Остановлена" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="900" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="dxl6oFcOkmb9z_GCciGH-3" target="dxl6oFcOkmb9z_GCciGH-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="522" y="320" />
+              <mxPoint x="388" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="dxl6oFcOkmb9z_GCciGH-3" target="dxl6oFcOkmb9z_GCciGH-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="578" y="280" />
+              <mxPoint x="702" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-3" value="Заведена" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="510" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="dxl6oFcOkmb9z_GCciGH-4" target="dxl6oFcOkmb9z_GCciGH-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="270" />
+              <mxPoint x="940" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-4" value="Движется" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="690" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-13" value="Заводится&lt;div&gt;[Повернут ключ зажигания]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-15" value="Не заводится&lt;div&gt;[Проблемы с двигателем]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-10;" vertex="1" parent="1">
+          <mxGeometry x="170" y="290" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="dxl6oFcOkmb9z_GCciGH-1" target="dxl6oFcOkmb9z_GCciGH-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="340" as="sourcePoint" />
+            <mxPoint x="300" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-19" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="430" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.921;exitY=0.124;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="dxl6oFcOkmb9z_GCciGH-19" target="dxl6oFcOkmb9z_GCciGH-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="460" as="sourcePoint" />
+            <mxPoint x="370" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-22" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="495" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-23" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="490" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.109;entryY=-0.182;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="dxl6oFcOkmb9z_GCciGH-1" target="dxl6oFcOkmb9z_GCciGH-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364" y="495" as="sourcePoint" />
+            <mxPoint x="414" y="445" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-26" value="&lt;div&gt;Движется&lt;/div&gt;[Нажата педаль газа]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="230" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-27" value="&lt;div&gt;Останавливается&lt;/div&gt;[Нажата педаль тормоза]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="220" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-29" value="&lt;div&gt;Выключается&lt;/div&gt;&lt;div&gt;[Повернут ключ зажигания/ Проблемы с двигателем]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="270" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="dxl6oFcOkmb9z_GCciGH-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="351" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="702" y="420" />
+              <mxPoint x="470" y="420" />
+              <mxPoint x="470" y="350" />
+              <mxPoint x="400" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-31" value="&lt;div&gt;Выключается&lt;/div&gt;&lt;div&gt;[Проблемы с двигателем]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="370" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-34" value="&lt;div&gt;Выключается&lt;/div&gt;&lt;div&gt;[Повернут ключ зажигания/ Проблемы с двигателем]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="440" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dxl6oFcOkmb9z_GCciGH-35" value="&lt;div&gt;Движется&lt;/div&gt;[Нажата педаль газа]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
