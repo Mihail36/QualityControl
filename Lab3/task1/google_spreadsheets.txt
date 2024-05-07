@@ -1,0 +1,22 @@
+Range: One cell, Many Cells
+Format: Not contains data, Contains data, Contains text, Not contains text, Text starts with, Text ends on, Text the same as, Date, Date before, Date after, More, Egual or more, Less, Equal or less, Equal, Not equal, Between, Not between, Your formula
+ValueFormat: None, Date, Value, Formula, Range
+DateFormat: None, Today, Tomorrow, Yesterday, Last week, Last month, Last year, Exact data
+DateValue: None, Value, Formula
+RangeValueFirst: None, Value, Formula
+RangeValueSecond: None, Value, Formula
+Bold: Y, N
+Italics: Y, N
+Underline: Y, N
+Strikethrough: Y, N
+TextColor: None, Default, Standart, Custom
+BackgroundColor: None, Default, Standart, Custom
+
+if [Format] in { "Not contains data", "Contains data" } then [ValueFormat] = "None";
+if [Format] in { "Contains text", "Not contains text", "Text starts with", "Text ends on", "Text the same as", "More", "Egual or more", "Less", "Equal or less", "Equal", "Not equal", "Your formula"} then [ValueFormat] = "Value" or [ValueFormat] = "Formula";
+if [Format] in { "Between", "Not between" } then [ValueFormat] = "Range";
+if [Format] in { "Date", "Date before", "Date after" } then [ValueFormat] = "Date";
+if [ValueFormat] = "Date" then not ([DateFormat] = "None") else [DateFormat] = "None";
+if [DateFormat] = "Exact data" then not ([DateValue] = "None") else [DateValue] = "None";
+if [ValueFormat] = "Range" then not [RangeValueFirst] = "None" else [RangeValueFirst] = "None";
+if [ValueFormat] = "Range" then not [RangeValueSecond] = "None" else [RangeValueSecond] = "None";

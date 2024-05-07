@@ -1,0 +1,101 @@
+Range	Format	ValueFormat	DateFormat	DateValue	RangeValueFirst	RangeValueSecond	Bold	Italics	Underline	Strikethrough	TextColor	BackgroundColor
+One cell	Text ends on	Formula	None	None	None	None	N	Y	Y	Y	Standart	Default
+Many Cells	Not between	Range	None	None	Value	Value	Y	N	N	N	None	None
+Many Cells	Contains data	None	None	None	None	None	Y	Y	Y	N	Custom	Standart
+One cell	More	Value	None	None	None	None	N	N	N	Y	Default	Custom
+Many Cells	Date after	Date	Exact data	Formula	None	None	Y	N	Y	Y	Standart	None
+One cell	Date	Date	Exact data	Value	None	None	N	N	N	N	Custom	Default
+Many Cells	Less	Value	None	None	None	None	N	Y	Y	Y	None	Default
+Many Cells	Text starts with	Formula	None	None	None	None	N	Y	Y	Y	Default	Standart
+One cell	Egual or more	Value	None	None	None	None	N	Y	Y	N	Default	None
+Many Cells	Date	Date	Exact data	Value	None	None	Y	Y	Y	Y	Default	Custom
+One cell	Not contains text	Value	None	None	None	None	N	Y	N	N	Standart	Standart
+One cell	Not equal	Formula	None	None	None	None	N	N	Y	Y	None	Standart
+One cell	Not contains data	None	None	None	None	None	N	Y	N	Y	Custom	None
+One cell	Equal or less	Value	None	None	None	None	Y	Y	Y	Y	Default	Default
+One cell	Text the same as	Formula	None	None	None	None	N	Y	Y	N	Standart	Custom
+Many Cells	Text ends on	Formula	None	None	None	None	Y	N	N	N	Custom	Custom
+Many Cells	Equal	Value	None	None	None	None	N	Y	Y	Y	Custom	None
+One cell	Contains data	None	None	None	None	None	N	N	N	Y	Standart	Default
+One cell	Date after	Date	Exact data	Formula	None	None	N	Y	N	N	None	Custom
+One cell	Date after	Date	Exact data	Value	None	None	N	Y	Y	Y	Custom	Standart
+One cell	Text starts with	Value	None	None	None	None	Y	N	N	N	Standart	Custom
+Many Cells	Not contains data	None	None	None	None	None	Y	N	Y	N	Default	Custom
+One cell	Date	Date	Exact data	Formula	None	None	N	Y	Y	Y	None	Standart
+Many Cells	Equal or less	Formula	None	None	None	None	N	N	N	N	None	Custom
+Many Cells	Not contains text	Formula	None	None	None	None	Y	N	Y	Y	Custom	None
+One cell	Your formula	Formula	None	None	None	None	N	Y	Y	Y	Custom	Standart
+Many Cells	Date before	Date	Exact data	Formula	None	None	N	Y	Y	Y	Default	Default
+One cell	Equal	Formula	None	None	None	None	Y	N	N	N	Standart	Standart
+Many Cells	Text the same as	Value	None	None	None	None	Y	N	N	Y	None	Default
+One cell	Less	Formula	None	None	None	None	Y	N	N	N	Standart	None
+One cell	Text starts with	Formula	None	None	None	None	N	Y	Y	Y	Custom	Default
+One cell	Between	Range	None	None	Formula	Formula	N	Y	Y	Y	Custom	Standart
+Many Cells	Text the same as	Value	None	None	None	None	Y	N	Y	Y	Custom	None
+Many Cells	Egual or more	Formula	None	None	None	None	Y	N	N	Y	Standart	Default
+One cell	Date before	Date	Exact data	Value	None	None	Y	N	N	N	Standart	None
+Many Cells	Text ends on	Value	None	None	None	None	Y	Y	N	N	Default	Standart
+Many Cells	Date before	Date	Last month	None	None	None	Y	Y	N	N	None	Custom
+Many Cells	More	Formula	None	None	None	None	Y	Y	Y	N	Standart	Standart
+Many Cells	Between	Range	None	None	Formula	Formula	Y	N	N	N	Standart	Default
+Many Cells	Not equal	Value	None	None	None	None	Y	Y	N	N	Default	Default
+One cell	Egual or more	Formula	None	None	None	None	N	Y	Y	Y	Custom	Standart
+One cell	Equal	Value	None	None	None	None	N	Y	Y	Y	None	Custom
+Many Cells	Date before	Date	Exact data	Formula	None	None	N	Y	Y	Y	Custom	Standart
+One cell	Equal or less	Value	None	None	None	None	N	Y	Y	Y	Custom	Standart
+One cell	Contains text	Formula	None	None	None	None	N	Y	Y	Y	Default	Default
+Many Cells	Not contains data	None	None	None	None	None	N	Y	Y	Y	Standart	Default
+Many Cells	Not equal	Formula	None	None	None	None	N	Y	Y	Y	Standart	Custom
+Many Cells	More	Value	None	None	None	None	N	Y	Y	Y	None	None
+Many Cells	Date	Date	Yesterday	None	None	None	N	Y	Y	Y	Standart	None
+One cell	Between	Range	None	None	Value	Value	N	N	Y	Y	Default	Custom
+Many Cells	Text ends on	Formula	None	None	None	None	Y	N	Y	Y	None	None
+Many Cells	Contains data	None	None	None	None	None	Y	Y	N	N	None	Custom
+One cell	Not between	Range	None	None	Value	Value	N	Y	Y	Y	Custom	Standart
+Many Cells	Contains text	Value	None	None	None	None	Y	N	N	N	None	None
+One cell	Date after	Date	Yesterday	None	None	None	Y	N	N	N	Custom	Custom
+Many Cells	Your formula	Value	None	None	None	None	Y	N	N	N	None	Default
+One cell	Text starts with	Formula	None	None	None	None	N	N	Y	Y	None	None
+One cell	Date after	Date	Tomorrow	None	None	None	N	N	Y	Y	Default	Standart
+Many Cells	Date	Date	Tomorrow	None	None	None	Y	Y	N	N	None	Custom
+Many Cells	Contains text	Value	None	None	None	None	N	N	Y	Y	Standart	Custom
+One cell	Date after	Date	Today	None	None	None	Y	Y	Y	N	Custom	Default
+Many Cells	Date before	Date	Last year	None	None	None	Y	N	N	Y	Default	Custom
+Many Cells	Equal or less	Value	None	None	None	None	N	N	Y	Y	Standart	None
+Many Cells	Not equal	Value	None	None	None	None	N	N	Y	Y	Custom	None
+One cell	Date after	Date	Last month	None	None	None	N	N	Y	Y	Default	Standart
+Many Cells	Between	Range	None	None	Formula	Formula	N	N	N	N	None	None
+One cell	Date	Date	Last month	None	None	None	Y	Y	N	N	Standart	Default
+One cell	Not between	Range	None	None	Formula	Formula	N	N	N	Y	Standart	Custom
+Many Cells	Date after	Date	Last week	None	None	None	N	Y	Y	N	None	Default
+Many Cells	Date before	Date	Yesterday	None	None	None	Y	Y	Y	Y	Default	Standart
+One cell	Not contains text	Value	None	None	None	None	N	N	N	Y	Default	Default
+One cell	Not contains data	None	None	None	None	None	N	N	N	Y	None	Standart
+One cell	Date before	Date	Last week	None	None	None	Y	N	N	Y	Standart	Custom
+Many Cells	More	Value	None	None	None	None	N	Y	Y	Y	Custom	Default
+Many Cells	Date before	Date	Today	None	None	None	N	N	N	Y	Default	Custom
+Many Cells	Date before	Date	Tomorrow	None	None	None	Y	Y	N	Y	Standart	None
+One cell	Your formula	Value	None	None	None	None	N	Y	Y	N	Standart	None
+One cell	Not contains text	Value	None	None	None	None	N	Y	Y	N	None	Custom
+Many Cells	Date	Date	Last week	None	None	None	Y	N	Y	Y	Default	None
+One cell	Date before	Date	Last month	None	None	None	Y	N	Y	Y	Custom	None
+Many Cells	Your formula	Value	None	None	None	None	N	Y	Y	N	Default	Custom
+One cell	Date	Date	Last year	None	None	None	N	Y	Y	N	Custom	Default
+One cell	Text the same as	Value	None	None	None	None	N	N	Y	N	Default	Standart
+Many Cells	Date after	Date	Last year	None	None	None	N	Y	Y	N	Standart	Standart
+Many Cells	Contains data	None	None	None	None	None	Y	Y	N	Y	Default	None
+Many Cells	Date after	Date	Tomorrow	None	None	None	N	N	Y	N	Custom	Default
+Many Cells	Contains text	Formula	None	None	None	None	Y	N	N	N	Custom	Standart
+One cell	Date before	Date	Last year	None	None	None	Y	Y	Y	Y	None	None
+Many Cells	Egual or more	Formula	None	None	None	None	N	Y	Y	N	None	Custom
+One cell	Date before	Date	Last week	None	None	None	Y	N	N	Y	Custom	Standart
+Many Cells	Less	Formula	None	None	None	None	N	N	N	N	Default	Standart
+One cell	Less	Value	None	None	None	None	Y	N	N	N	Custom	Custom
+Many Cells	Date after	Date	Yesterday	None	None	None	Y	Y	Y	Y	None	Default
+Many Cells	Not between	Range	None	None	Formula	Value	Y	N	N	N	Default	Default
+Many Cells	Date	Date	Today	None	None	None	Y	N	Y	Y	Standart	Standart
+Many Cells	Not between	Range	None	None	Value	Value	N	Y	N	N	Standart	Default
+Many Cells	Not between	Range	None	None	Value	Formula	Y	N	Y	Y	Default	Default
+Many Cells	Date before	Date	Today	None	None	None	N	N	N	N	None	None
+One cell	Equal	Value	None	None	None	None	N	Y	N	N	Default	Default
+One cell	Date before	Date	Exact data	Value	None	None	N	N	N	N	None	Standart
