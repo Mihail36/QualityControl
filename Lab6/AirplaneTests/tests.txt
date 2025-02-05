@@ -1,0 +1,6 @@
+dotnet test —collect:"XPlat Code Coverage"
+
+cd TestResults\603fa923-82c3-472a-9650-78c81dc6a979
+
+reportgenerator -reports:coverage.cobertura.xml -targetdir:coverage_report -reporttypes:HTML
+
